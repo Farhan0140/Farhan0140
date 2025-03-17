@@ -1,4 +1,4 @@
-[https://readme-typing-svg.demolab.com/demo/?weight=500&size=21&color=4FECF7&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'am+Farhan+Nadim](https://readme-typing-svg.demolab.com/demo/?weight=500&size=21&color=4FECF7&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+Hi%2C+I'm+Farhan+Nadim)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4FECF7&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+Hi%2C+I'm+Farhan+Nadim)](https://git.io/typing-svg)
 
 ## About Me
 Undergrad in CSE (BSc)
