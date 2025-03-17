@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4FECF7&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+I'm+Farhan+Nadim)](https://git.io/typing-svg)
 
 ## About Me
-Undergrad in CSE (BSc)
-🤔 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  C++.<br>🌱 I’m currently learning everything 🤣<br>👨🏼‍🎓 studying  Computer Science and Engineering at UITS: University of Information Technology & Sciences
+Undergrad in CSE (BSc)<br>🤔 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  C++.<br>🌱 I’m currently learning everything 🤣<br>👨🏼‍🎓 studying  Computer Science and Engineering at UITS: University of Information Technology & Sciences
 
 
 ## 🌐 Socials:
