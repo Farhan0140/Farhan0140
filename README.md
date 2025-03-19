@@ -51,20 +51,6 @@
   </a>
 </div>
 
-###
-
-<br>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Farhan0140&theme=aura&hide_border=true)<br/>
