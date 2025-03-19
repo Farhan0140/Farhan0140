@@ -5,21 +5,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Farhan0140&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I5Z3pqeXQ0eTEzd2NlamFxNmN5bWRya2Y5bWcycjhjOHJsZ2k5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
@@ -67,6 +52,21 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Farhan0140/Farhan0140/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Farhan0140&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
