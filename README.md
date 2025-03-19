@@ -1,13 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=30&duration=4998&pause=1000&color=4FECF7&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+I'm+Farhan+Nadim)](https://git.io/typing-svg)
 
-
+# 💫 About Me:
+🤔 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 C++.<br>🌱 I’m currently learning everything 🤣<br>👨🏼‍🎓 studying Computer Science and Engineering at UITS: University of Information Technology & Sciences
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhan0140&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Farhan0140&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farhan0140&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="158" alt="languages graph"  />
+  ![](https://github-readme-stats.vercel.app/api?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Farhan0140&theme=aura&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 ###
