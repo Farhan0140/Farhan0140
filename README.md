@@ -4,7 +4,7 @@
 🤔 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 C++.<br>🌱 I’m currently learning everything 🤣<br>👨🏼‍🎓 studying Computer Science and Engineering at UITS: University of Information Technology & Sciences
 
 ###
-
+<br>
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I5Z3pqeXQ0eTEzd2NlamFxNmN5bWRya2Y5bWcycjhjOHJsZ2k5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
