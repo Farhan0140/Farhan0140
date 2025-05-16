@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan0140&label=Profile%20views&color=0e75b6&style=flat" alt="farhan0140" /> </p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=30&duration=4998&pause=1000&color=4FECF7&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+I'm+Farhan+Nadim)](https://git.io/typing-svg)
 
 # About Me:
@@ -74,5 +76,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Farhan0140&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Farhan0140&icon=0&color=0)](https://visitcount.itsvg.in)
