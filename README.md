@@ -4,11 +4,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farhan0140&label=Profile%20views&color=0e75b6&style=flat" alt="farhan0140" /> </p>
 
-<center>
-  
+<p align="center"> 
 # About Me:
-🤔 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 C++.<br>🌱 I’m currently learning everything 🤣<br>👨🏼‍🎓 studying Computer Science and Engineering at UITS: University of Information Technology & Sciences
-</center>
+</p>
+<p align="center"> 
+🤔 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 C++.
+</p>
+<p align="center"> 
+🌱 I’m currently learning everything 🤣
+</p>
+<p align="center"> 
+👨🏼‍🎓 studying Computer Science and Engineering at UITS: University of Information Technology & Sciences
+</p>
 
 <br>
 
