@@ -78,10 +78,14 @@
 
 ###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<h1 align="center">  
+  📊 GitHub Stats:  
+</h1>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 ![](https://nirzak-streak-stats.vercel.app/?user=Farhan0140&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
