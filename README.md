@@ -95,11 +95,14 @@
 <h3 align="center">  
   ✍️ Random Dev Quote
 </h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
+</div>
 
 <h3 align="center">  
   🔝 Top Contributed Repo
 </h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=Farhan0140&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Farhan0140&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</div>
