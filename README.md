@@ -1,6 +1,7 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=30&duration=4998&pause=1000&color=4FECF7&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+I'm+Farhan+Nadim)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=30&duration=4998&pause=1000&color=4FECF7&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+I'm+Farhan+Nadim" alt="Typing SVG" />
 </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farhan0140&label=Profile%20views&color=0e75b6&style=flat" alt="farhan0140" /> </p>
 
 # About Me:
