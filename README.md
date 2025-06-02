@@ -104,6 +104,10 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Farhan0140&theme=aura&hide_border=true" alt="GitHub Streak Stats" />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan0140&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 
 <h3 align="center">  
   ✍️ Random Dev Quote
