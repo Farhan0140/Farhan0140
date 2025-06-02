@@ -81,9 +81,9 @@
 
 ###
 
-<h1 align="center">  
+<h3 align="center">  
   📊 GitHub Stats:  
-</h1>
+</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan0140&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
@@ -92,9 +92,14 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Farhan0140&theme=aura&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-### ✍️ Random Dev Quote
+<h3 align="center">  
+  ✍️ Random Dev Quote
+</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<h3 align="center">  
+  🔝 Top Contributed Repo
+</h3>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Farhan0140&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
