@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=30&duration=4998&pause=1000&color=4FECF7&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;%F0%9F%92%AB+I'm+Farhan+Nadim" alt="Typing SVG" />
 </div>
 
+<a href="https://github.com/Farhan0140/Farhan0140"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhan0140/Farhan0140/main/dark.svg"> <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Farhan0140/Farhan0140/main/light.svg"> </picture> </a>
+
 <h1 align="center">  
   About Me:
 </h1>
