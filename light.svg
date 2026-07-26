@@ -48,17 +48,17 @@
     .head   { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #7C3AED; font-weight: bold; }
     .accent { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #059669; font-weight: bold; }
     text, tspan { white-space: pre; }
-
+ 
     .term-label { font-family: 'Courier New', Consolas, monospace; font-size: 12px; fill: #64748B; letter-spacing: 0.5px; }
     .scan-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #DC2626; letter-spacing: 1px; }
     .panel-title { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #0284C7; letter-spacing: 2px; opacity: 0.75; }
     .cursor-blink { fill: #0EA5E9; }
   </style>
 </defs>
-
+ 
 <rect width="1180" height="610" rx="18" fill="url(#bgGlow)"/>
 <rect width="1180" height="610" rx="18" fill="url(#scanlines)"/>
-
+ 
 <g id="titlebar">
   <rect x="3" y="3" width="1174" height="34" rx="16" fill="#FFFFFF" fill-opacity="0.9"/>
   <circle cx="24" cy="20" r="5" fill="#F87171"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
@@ -70,16 +70,16 @@
   </circle>
   <text x="1132" y="24" class="scan-label">SCANNING</text>
 </g>
-
+ 
 <g transform="translate(0,38)">
   <rect x="14" y="26" width="488" height="468" rx="14" fill="#FFFFFF" fill-opacity="0.55" stroke="url(#borderGrad)" stroke-width="1" opacity="0.4"/>
   <rect x="508" y="10" width="655" height="500" rx="14" fill="#FFFFFF" fill-opacity="0.55" stroke="url(#borderGrad)" stroke-width="1" opacity="0.4"/>
   <text x="30" y="24" class="panel-title">VISUAL.MAP</text>
   <text x="524" y="24" class="panel-title">SYSTEM.INFO</text>
-
+ 
   <g mask="url(#revealMask)">
   <text x="30" y="0" class="ascii">
-
+ 
 <tspan x="30" y="79.98" xml:space="preserve">                                                                   .:::..::::</tspan>
 <tspan x="30" y="87.53" xml:space="preserve">                                                                 ::.        .::</tspan>
 <tspan x="30" y="95.08" xml:space="preserve">                                             ..::::-:...::.     :-            -:</tspan>
@@ -130,21 +130,21 @@
 <tspan x="30" y="434.83" xml:space="preserve">                  .====-:::...      ...:-===--:...-==--=====----+%%##########@@##+*##*:......</tspan>
 <tspan x="30" y="442.38" xml:space="preserve">                                           ..:::..::....           ....:::---=+*%%*=:..:......</tspan>
 <tspan x="30" y="449.93" xml:space="preserve">                                                                                .... ....</tspan>
-
+ 
   </text>
   </g>
-
-  <g clip-path="url(#lc0)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="42"><tspan class="head">farhan@devos</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></tspan></text></g><g clip-path="url(#lc1)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="64"><tspan class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">Farhan Nadim</tspan></tspan></text></g><g clip-path="url(#lc2)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="86"><tspan class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Fullstack Dev · CSE Undergrad</tspan></tspan></text></g><g clip-path="url(#lc3)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="108"><tspan class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Dhaka, Bangladesh</tspan></tspan></text></g><g clip-path="url(#lc4)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="130"><tspan class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ................... </tspan><tspan class="value">BSc in CSE, UITS</tspan></tspan></text></g><g clip-path="url(#lc5)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="152"><tspan class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Building • Learning • Shipping</tspan></tspan></text></g><g clip-path="url(#lc6)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="174"><tspan class="cc">. </tspan></tspan></text></g><g clip-path="url(#lc7)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="196"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Lang</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Go, Python</tspan></tspan></text></g><g clip-path="url(#lc8)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="218"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Frontend</tspan><tspan class="cc">: ............ </tspan><tspan class="value">JavaScript, HTML, CSS</tspan></tspan></text></g><g clip-path="url(#lc9)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="240"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Backend</tspan><tspan class="cc">: ............. </tspan><tspan class="value">Django, DRF</tspan></tspan></text></g><g clip-path="url(#lc10)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="262"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ............ </tspan><tspan class="value">PostgreSQL, SQL, Neon</tspan></tspan></text></g><g clip-path="url(#lc11)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="284"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Deploy</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Vercel, Render, Supabase</tspan></tspan></text></g><g clip-path="url(#lc12)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="306"><tspan class="cc">. </tspan></tspan></text></g><g clip-path="url(#lc13)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="328"><tspan class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g><g clip-path="url(#lc14)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="350"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Mail</tspan><tspan class="cc">: ................ </tspan><tspan class="value">farhannadim2023@gmail.com</tspan></tspan></text></g><g clip-path="url(#lc15)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="372"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Farhan0140</tspan></tspan></text></g><g clip-path="url(#lc16)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="394"><tspan class="cc">. </tspan></tspan></text></g><g clip-path="url(#lc17)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="416"><tspan class="accent">- Live Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g><g clip-path="url(#lc18)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="438"><tspan class="cc">. </tspan><tspan class="value">See live GitHub stats badges below in README ↓</tspan></tspan></text></g>
-
+ 
+  <g clip-path="url(#lc0)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="42"><tspan class="head">farhan@devos</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></tspan></text></g><g clip-path="url(#lc1)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="64"><tspan class="cc">. </tspan><tspan class="key">Name</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Farhan Nadim</tspan></tspan></text></g><g clip-path="url(#lc2)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="86"><tspan class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Fullstack Dev · CSE Undergrad</tspan></tspan></text></g><g clip-path="url(#lc3)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="108"><tspan class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Dhaka, Bangladesh</tspan></tspan></text></g><g clip-path="url(#lc4)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="130"><tspan class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ................... </tspan><tspan class="value">BSc in CSE, UITS</tspan></tspan></text></g><g clip-path="url(#lc5)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="152"><tspan class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Building • Learning • Shipping</tspan></tspan></text></g><g clip-path="url(#lc6)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="174"><tspan class="cc">. </tspan></tspan></text></g><g clip-path="url(#lc7)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="196"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Lang</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Go, Python</tspan></tspan></text></g><g clip-path="url(#lc8)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="218"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Frontend</tspan><tspan class="cc">: ............ </tspan><tspan class="value">React, JavaScript, HTML, CSS</tspan></tspan></text></g><g clip-path="url(#lc9)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="240"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Backend</tspan><tspan class="cc">: ............. </tspan><tspan class="value">Django, DRF</tspan></tspan></text></g><g clip-path="url(#lc10)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="262"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ............ </tspan><tspan class="value">PostgreSQL, SQL, Neon</tspan></tspan></text></g><g clip-path="url(#lc11)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="284"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Deploy</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Vercel, Render, Supabase</tspan></tspan></text></g><g clip-path="url(#lc12)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="306"><tspan class="cc">. </tspan></tspan></text></g><g clip-path="url(#lc13)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="328"><tspan class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g><g clip-path="url(#lc14)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="350"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Mail</tspan><tspan class="cc">: ................ </tspan><tspan class="value">farhannadim2023@gmail.com</tspan></tspan></text></g><g clip-path="url(#lc15)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="372"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Farhan0140</tspan></tspan></text></g><g clip-path="url(#lc16)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="394"><tspan class="cc">. </tspan></tspan></text></g><g clip-path="url(#lc17)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="416"><tspan class="accent">- Live Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g><g clip-path="url(#lc18)"><text x="520" y="0" fill="#1E293B"><tspan x="520" y="438"><tspan class="cc">. </tspan><tspan class="value">See live GitHub stats badges below in README ↓</tspan></tspan></text></g>
+ 
   <rect x="522" y="422.0" width="9" height="16" class="cursor-blink" opacity="0">
     <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="2.94s" repeatCount="indefinite"/>
   </rect>
 </g>
-
+ 
 <rect x="0" y="-70" width="1180" height="70" fill="url(#scanGrad)" opacity="0.7" style="mix-blend-mode:multiply">
   <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 680" dur="4.2s" repeatCount="indefinite"/>
 </rect>
-
+ 
 <rect x="3" y="3" width="1174" height="604" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
   <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
 </rect>
